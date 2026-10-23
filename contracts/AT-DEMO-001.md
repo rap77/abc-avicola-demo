@@ -2,14 +2,16 @@
 document_id: AT-DEMO-001
 title: Contrato atómico — Prototipo funcional frontend-only ABC Avícola
 version: 0.1.0
-status: IN_REVIEW
+status: APPROVED
 authority: CONTRACT
 document_owner:
   - ABC Avícola Platform Owner
 language: es
 created_at: 2026-10-23
-last_reviewed_at: null
-approved_at: null
+last_reviewed_at: 2026-10-23
+approved_at: 2026-10-23
+approval_scope: "Aprobado como contrato de EJECUCIÓN DEL PROTOTIPO (DEC-005), NO del producto. execution_authorization GRANTED solo este contrato, solo repo abc-avicola-demo, vigencia hasta 2026-10-26. production_access_allowed: false. real_data_allowed: false."
+sha256: 88fda2fdd1d21417bc8508c898f6830878a0479b1dfc7560aa5151f7fc4dab72  # SHA-256 FINAL del archivo contracts/AT-DEMO-001.md en estado APPROVED (hash autoconsistente: calculado sobre la versión final aprobada)
 supersedes: []
 superseded_by: []
 source_documents:
@@ -31,7 +33,7 @@ obsidian_compatible: true
 ```yaml
 contract_id: AT-DEMO-001
 version: 0.1.0
-status: IN_REVIEW
+status: APPROVED   # Aprobado por ABC Avícola Platform Owner (humano) el 2026-10-23 como contrato de EJECUCIÓN DEL PROTOTIPO (DEC-005), no del producto
 type: IMPLEMENTATION
 artifact_class: PROTOTYPE_COMMERCIAL   # NO es implementación del producto (CUT-1)
 title: Demo navegable de 5 flujos con datos mock para validación comercial
