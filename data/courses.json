@@ -1,0 +1,30 @@
+[
+  { "id": "manejo-galpon", "title": "Manejo eficiente de galpón de puesta", "category": "Producción", "level": "Intermedio", "modality": "Self-paced", "instructor": "Dra. María López (mock)", "bio": "Médica veterinaria especialista en producción avícola con 12 años en granjas de Latinoamérica. Perfil ficticio de muestra.", "priceUSD": 49, "type": "Premium", "img": "/img/course-1.webp", "sample": true,
+    "modules": [
+      { "id": "m1", "title": "Fundamentos del galpón", "lessons": [ {"id":"l1","title":"Clima y ventilación","duration":"08:20"}, {"id":"l2","title":"Densidad y bienestar","duration":"10:05"} ] },
+      { "id": "m2", "title": "Nutrición y agua", "lessons": [ {"id":"l3","title":"Programa alimenticio","duration":"12:40"}, {"id":"l4","title":"Calidad del agua","duration":"07:15"} ] },
+      { "id": "m3", "title": "Registro de datos", "lessons": [ {"id":"l5","title":"KPIs de puesta","duration":"09:30"} ] }
+    ] },
+  { "id": "biosseguridad", "title": "Biosseguridad aplicada a granjas avícolas", "category": "Sanidad", "level": "Avanzado", "modality": "En vivo (simulado)", "instructor": "Ing. Pedro Ruiz (mock)", "bio": "Ingeniero agropecuario enfocado en planes de bioseguridad. Perfil ficticio de muestra.", "priceUSD": 79, "type": "Suscripción", "img": "/img/course-2.webp", "sample": true,
+    "modules": [
+      { "id": "m1", "title": "Perímetros y barreras", "lessons": [ {"id":"l1","title":"Zonificación","duration":"11:00"}, {"id":"l2","title":"Control de accesos","duration":"09:45"} ] },
+      { "id": "m2", "title": "Protocolos de limpieza", "lessons": [ {"id":"l3","title":"Lavado y desinfección","duration":"13:20"} ] }
+    ] },
+  { "id": "incubacion-101", "title": "Incubación 101: de huevo a pollito", "category": "Producción", "level": "Básico", "modality": "Self-paced", "instructor": "Equipo ABC (mock)", "bio": "Contenido introductorio gratuito. Entidad ficticia de muestra.", "priceUSD": 0, "type": "Gratis", "img": "/img/course-3.webp", "sample": true,
+    "modules": [
+      { "id": "m1", "title": "Parámetros de incubadora", "lessons": [ {"id":"l1","title":"Temperatura y humedad","duration":"06:30"}, {"id":"l2","title":"Volteo","duration":"05:10"} ] }
+    ] },
+  { "id": "nutricion-precisa", "title": "Nutrición de precisión en pollos de engorde", "category": "Nutrición", "level": "Avanzado", "modality": "Self-paced", "instructor": "Dr. Ana Torres (mock)", "bio": "Nutricionista animal. Perfil ficticio de muestra.", "priceUSD": 59, "type": "Premium", "img": "/img/course-4.webp", "sample": true,
+    "modules": [
+      { "id": "m1", "title": "Fases de alimentación", "lessons": [ {"id":"l1","title":"Starter / grower / finisher","duration":"10:15"} ] },
+      { "id": "m2", "title": "Aditivos", "lessons": [ {"id":"l2","title":"Enzimas y probióticos","duration":"08:50"} ] }
+    ] },
+  { "id": "mercado-avicola", "title": "Como leer el mercado avícola latinoamericano", "category": "Negocios", "level": "Intermedio", "modality": "Self-paced", "instructor": "Cátedra Agro (mock)", "bio": "Análisis de mercado con cifras DE MUESTRA. Entidad ficticia.", "priceUSD": 39, "type": "Suscripción", "img": "/img/course-5.webp", "sample": true,
+    "modules": [
+      { "id": "m1", "title": "Oferta y demanda", "lessons": [ {"id":"l1","title":"Fuentes de datos","duration":"09:05"}, {"id":"l2","title":"Estacionalidad","duration":"07:40"} ] }
+    ] },
+  { "id": "primeros-auxilios-aves", "title": "Primeros auxilios para aves de corral", "category": "Sanidad", "level": "Básico", "modality": "Self-paced", "instructor": "Dra. María López (mock)", "bio": "Guía práctica básica. Perfil ficticio de muestra.", "priceUSD": 0, "type": "Gratis", "img": "/img/course-6.webp", "sample": true,
+    "modules": [
+      { "id": "m1", "title": "Señales de alerta", "lessons": [ {"id":"l1","title":"Observación conductual","duration":"05:55"} ] }
+    ] }
+]

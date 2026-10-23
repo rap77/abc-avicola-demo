@@ -1,0 +1,5 @@
+[
+  { "id": "p1", "company": "Avícola La Granja (ficticia)", "avatar": "/img/avatar-1.webp", "time": "hace 2 h", "sponsored": false, "likes": 12, "body": "Buscamos aliados comerciales para distribución regional de huevo. Publicación de ejemplo del prototipo." },
+  { "id": "p2", "company": "NutriFeed Andina (ficticia)", "avatar": "/img/avatar-2.webp", "time": "hace 5 h", "sponsored": true, "likes": 34, "body": "Patrocinado: nueva línea de enzimas para engorde. Contenido simulado — no es un producto real." },
+  { "id": "p3", "company": "Incubadora Del Valle (ficticia)", "avatar": "/img/avatar-3.webp", "time": "ayer", "sponsored": false, "likes": 8, "body": "Compartimos nuestra experiencia en volt automatizado (caso ficticio de muestra)." }
+]
