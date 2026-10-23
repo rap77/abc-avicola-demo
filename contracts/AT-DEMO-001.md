@@ -11,7 +11,7 @@ created_at: 2026-10-23
 last_reviewed_at: 2026-10-23
 approved_at: 2026-10-23
 approval_scope: "Aprobado como contrato de EJECUCIÓN DEL PROTOTIPO (DEC-005), NO del producto. execution_authorization GRANTED solo este contrato, solo repo abc-avicola-demo, vigencia hasta 2026-10-26. production_access_allowed: false. real_data_allowed: false."
-sha256: 88fda2fdd1d21417bc8508c898f6830878a0479b1dfc7560aa5151f7fc4dab72  # SHA-256 FINAL del archivo contracts/AT-DEMO-001.md en estado APPROVED (hash autoconsistente: calculado sobre la versión final aprobada)
+sha256: a7c0eb44e45dc41b411e0a81c4ea45b32a96ec2543a3adb8b1c249283d068fc2  # SHA-256 del contenido APROBADO del contrato, fijado en el objeto git del commit de aprobación 3a430d0 (verificable con: git show HEAD:contracts/AT-DEMO-001.md | sha256sum). Nota: no puede ser hash del propio archivo físico porque la línea sha256 vive dentro del archivo (paradoja autorreferencial); el valor canónico es el del blob aprobado.
 supersedes: []
 superseded_by: []
 source_documents:
