@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { background-color: #FFFFFF; color: theme("colors.ink.dark"); font-family: var(--font-nunito-sans), "Nunito Sans", ui-sans-serif, sans-serif; }
