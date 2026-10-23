@@ -2,14 +2,14 @@
 document_id: BLUEPRINTS-DEMO
 title: Blueprints de pantallas — Prototipo Demo ABC Avícola
 version: 0.1.0
-status: PROPOSED
+status: APPROVED
 authority: NORMATIVE
 document_owner:
   - ABC Avícola Platform Owner
 language: es
 created_at: 2026-10-23
-last_reviewed_at: null
-approved_at: null
+last_reviewed_at: 2026-10-23
+approved_at: 2026-10-23
 supersedes: []
 superseded_by: []
 source_documents:
