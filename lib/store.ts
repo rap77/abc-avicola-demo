@@ -21,6 +21,10 @@ export function markPurchased(id: string) {
   const p = new Set(getPurchased()); p.add(id);
   localStorage.setItem(K_PURCHASED, JSON.stringify([...p]));
 }
+export function clearPurchased() {
+  if (typeof window === "undefined") return;
+  localStorage.removeItem(K_PURCHASED);
+}
 export function getProgress(id: string): string[] {
   if (typeof window === "undefined") return [];
   try { return JSON.parse(localStorage.getItem(K_PROGRESS(id)) ?? "[]"); } catch { return []; }
