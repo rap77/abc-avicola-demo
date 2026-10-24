@@ -1,5 +1,32 @@
 [
-  { "id": "p1", "company": "Avícola La Granja (ficticia)", "avatar": "/img/avatar-1.webp", "time": "hace 2 h", "sponsored": false, "likes": 12, "body": "Buscamos aliados comerciales para distribución regional de huevo. Publicación de ejemplo del prototipo." },
-  { "id": "p2", "company": "NutriFeed Andina (ficticia)", "avatar": "/img/avatar-2.webp", "time": "hace 5 h", "sponsored": true, "likes": 34, "body": "Patrocinado: nueva línea de enzimas para engorde. Contenido simulado — no es un producto real." },
-  { "id": "p3", "company": "Incubadora Del Valle (ficticia)", "avatar": "/img/avatar-3.webp", "time": "ayer", "sponsored": false, "likes": 8, "body": "Compartimos nuestra experiencia en volt automatizado (caso ficticio de muestra)." }
+  {
+    "id": "post-1",
+    "empresa": "Granja San Miguel S.A.",
+    "avatar": "/img/avatar-1.webp",
+    "timestamp": "2026-10-23T09:15:00Z",
+    "cuerpo": "Buscamos proveedores de alimento balanceado para pollo de engorde en zona norte. Contacto directo por mensaje.",
+    "likes": 12,
+    "comentarios": 3,
+    "sponsored": false
+  },
+  {
+    "id": "post-2",
+    "empresa": "AviTech Solutions",
+    "avatar": "/img/avatar-2.webp",
+    "timestamp": "2026-10-22T14:30:00Z",
+    "cuerpo": "Nuevo sensor IoT para monitoreo de temperatura en galpones. Demo gratuita esta semana. Escríbenos!",
+    "likes": 28,
+    "comentarios": 7,
+    "sponsored": true
+  },
+  {
+    "id": "post-3",
+    "empresa": "Cooperativa Huevos del Valle",
+    "avatar": "/img/avatar-3.webp",
+    "timestamp": "2026-10-23T11:45:00Z",
+    "cuerpo": "Ampliamos capacidad de producción de huevo libre de jaula. Interesados en distribución mayorista, contactar al área comercial.",
+    "likes": 15,
+    "comentarios": 2,
+    "sponsored": false
+  }
 ]
